@@ -1,5 +1,8 @@
 import $ from 'jquery';
 
+import logoLight from '../../assets/baratheon-logo-light.svg';
+import logoDark from '../../assets/baratheon-logo.svg';
+
 const messageMouseenter = (e) => {
   e.preventDefault();
   const messageContentContainer = $(e.target).closest('.messageContainer').find('.messageContent');
@@ -29,11 +32,15 @@ const messageMouseleave = (e) => {
 };
 
 const toggleLogo = () => {
-  const currentImg = $('#navImg').attr('src');
-  if (currentImg === '/src/assets/baratheon-logo-light.svg') {
-    $('#navImg').attr('src', '/src/assets/baratheon-logo.svg');
+  const currentImg = $('#navImg');
+  if (currentImg.is('.light')) {
+    $('#navImg').attr('src', logoDark);
+    currentImg.addClass('dark');
+    currentImg.removeClass('light');
   } else {
-    $('#navImg').attr('src', '/src/assets/baratheon-logo-light.svg');
+    $('#navImg').attr('src', logoLight);
+    currentImg.addClass('light');
+    currentImg.removeClass('dark');
   }
 };
 
