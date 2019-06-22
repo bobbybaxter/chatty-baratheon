@@ -1,0 +1,328 @@
+{
+  "conversations" : {
+    "BC100" : {
+      "-Lem6FbZ7H_QagTpph4h" : {
+        "messageContent" : "Yo, chatbot here. Welcome to Fling's Landing",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-Lem751hW_Sp3GrXDxxZ" : {
+        "messageContent" : "To talk with others, type your messages at the top of the page and click enter",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-Lem7JOufeK2VlHHSXGt" : {
+        "messageContent" : "Text too small? Check the Large Text button above to make the font size bigger",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-Lem7XJf0mb5ssMPbAzV" : {
+        "messageContent" : "Theme too bright for your sensitive eyes? Click the Dark Theme button above to dim your display",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-Lem7k6LmtOi7nq6VIMi" : {
+        "messageContent" : "To clear your chat history, click the Clear Chat button at the top right of the screen",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-Lem7x2C5MlVTc5yD3Nd" : {
+        "messageContent" : "Check out the Channels button above to change conversations",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      }
+    },
+    "BH100" : {
+      "-LenjksneudNNPdr6lrx" : {
+        "messageContent" : "You seen Cersei today?",
+        "name" : "Bob",
+        "timeStamp" : "May 13, 2019 7:31 PM"
+      },
+      "-LenjmeJc9EAkw1S9gpg" : {
+        "messageContent" : "u?",
+        "name" : "Heath",
+        "timeStamp" : "May 13, 2019 7:30 PM"
+      }
+    },
+    "G100" : {
+      "-LenS4tQcH1kdBD8MFeI" : {
+        "messageContent" : "Nashville Software School is the best!",
+        "name" : "Lakia",
+        "timeStamp" : "May 13, 2019 6:08 PM"
+      },
+      "-LenS6_u7_45IlG-mdSg" : {
+        "messageContent" : "Go Preds!",
+        "name" : "Lakia",
+        "timeStamp" : "May 13, 2019 6:08 PM"
+      },
+      "-LenjksneudNNPdr6lrx" : {
+        "messageContent" : "You seen Cersei today, bro?",
+        "timeStamp" : "May 13, 2019 7:31 PM"
+      },
+      "-LenjpoGcHI4-K_nmAZ3" : {
+        "messageContent" : "yo yo yo",
+        "name" : "Bob",
+        "timeStamp" : "May 13, 2019 7:48 PM"
+      },
+      "-LenmmkwOHsNYa0wp62p" : {
+        "messageContent" : "a",
+        "name" : "Bob",
+        "timeStamp" : "May 13, 2019 7:43 PM"
+      },
+      "-LenmmoCq2EGkKn-8Cxo" : {
+        "messageContent" : "a",
+        "name" : "Bob",
+        "timeStamp" : "May 13, 2019 7:43 PM"
+      },
+      "-Lenmmqf-YL7yD_gE8WE" : {
+        "messageContent" : "a",
+        "name" : "Bob",
+        "timeStamp" : "May 13, 2019 7:43 PM"
+      },
+      "-LenmmsyDEU__TJfcWUs" : {
+        "messageContent" : "aa",
+        "name" : "Bob",
+        "timeStamp" : "May 13, 2019 7:43 PM"
+      },
+      "-LenmmvB92aaInX-B46D" : {
+        "messageContent" : "",
+        "name" : "Bob",
+        "timeStamp" : "May 13, 2019 7:43 PM"
+      },
+      "-LenmmxfVKMZpMRP4nNe" : {
+        "messageContent" : "aa",
+        "name" : "Bob",
+        "timeStamp" : "May 13, 2019 7:43 PM"
+      },
+      "-Lenmn-3o9wrM0-cw5n4" : {
+        "messageContent" : "",
+        "name" : "Bob",
+        "timeStamp" : "May 13, 2019 7:43 PM"
+      },
+      "-Lennxaiku_C0CK-AQyb" : {
+        "messageContent" : "a",
+        "name" : "Bob",
+        "timeStamp" : "May 13, 2019 7:48 PM"
+      },
+      "-LennxdoupTe3H7HzFUQ" : {
+        "messageContent" : "a",
+        "name" : "Bob",
+        "timeStamp" : "May 13, 2019 7:48 PM"
+      },
+      "-Lennxgoe49YzlUtIXnC" : {
+        "messageContent" : "a",
+        "name" : "Bob",
+        "timeStamp" : "May 13, 2019 7:48 PM"
+      },
+      "-Lennxjv8zMFsTx0oc5R" : {
+        "messageContent" : "a",
+        "name" : "Bob",
+        "timeStamp" : "May 13, 2019 7:48 PM"
+      },
+      "-LennxmzPyszReLrlEvo" : {
+        "messageContent" : "a",
+        "name" : "Bob",
+        "timeStamp" : "May 13, 2019 7:48 PM"
+      },
+      "-Lennxpj4oJ_rS6jElRo" : {
+        "messageContent" : "a",
+        "name" : "Bob",
+        "timeStamp" : "May 13, 2019 7:48 PM"
+      },
+      "-LennxsPJti7P-ZKCzyw" : {
+        "messageContent" : "aa",
+        "name" : "Bob",
+        "timeStamp" : "May 13, 2019 7:48 PM"
+      },
+      "-LennxvILzPvI72fDinQ" : {
+        "messageContent" : "",
+        "name" : "Bob",
+        "timeStamp" : "May 13, 2019 7:48 PM"
+      },
+      "-LennxyJoGmBjT2WLvK1" : {
+        "messageContent" : "a",
+        "name" : "Bob",
+        "timeStamp" : "May 13, 2019 7:48 PM"
+      }
+    },
+    "HC100" : {
+      "-Lem6OsJloAbvY1DU9Lv" : {
+        "messageContent" : "Yo, chatbot here. Welcome to Fling's Landing",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-Lem751GLUtts45MJU7X" : {
+        "messageContent" : "To talk with others, type your messages at the top of the page and click enter",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-Lem7JOwsA8VqXkidGZZ" : {
+        "messageContent" : "Text too small? Check the Large Text button above to make the font size bigger",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-Lem7XJjZOxJhUNvYzVd" : {
+        "messageContent" : "Theme too bright for your sensitive eyes? Click the Dark Theme button above to dim your display",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-Lem7k6MRbFduhQVa3t-" : {
+        "messageContent" : "To clear your chat history, click the Clear Chat button at the top right of the screen",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-Lem7x2D4W46rvWyR5Do" : {
+        "messageContent" : "Check out the Channels button above to change conversations",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-LenjTsm3vfQaT65ZZHo" : {
+        "messageContent" : "sup chatbot",
+        "name" : "Heath",
+        "timeStamp" : "June 11, 2019 12:34 PM"
+      },
+      "-Lhzwv-Bhk_76VYK7__S" : {
+        "messageContent" : "sssuuuuuh",
+        "name" : "Heath",
+        "timeStamp" : "June 22, 2019 11:10 AM"
+      },
+      "-LhzwvVAbqn1vT3Xnb-b" : {
+        "messageContent" : "this cool",
+        "name" : "Heath",
+        "timeStamp" : "June 22, 2019 11:10 AM"
+      }
+    },
+    "HL100" : {
+      "-LenjfyhqudRgTjvFENb" : {
+        "messageContent" : "Hi",
+        "name" : "Lakia",
+        "timeStamp" : "May 13, 2019 7:29 PM"
+      },
+      "-LenjhN_QRsbuJMYjoem" : {
+        "messageContent" : "Hello",
+        "name" : "Heath",
+        "timeStamp" : "June 22, 2019 11:10 AM"
+      },
+      "-LenjijMOE3Ucgt2Ihbp" : {
+        "messageContent" : "nope",
+        "name" : "Lakia",
+        "timeStamp" : "May 13, 2019 7:29 PM"
+      },
+      "-Lhzwwt7WaDcHxHSCnQU" : {
+        "messageContent" : "Hey lakia",
+        "name" : "Heath",
+        "timeStamp" : "June 22, 2019 11:10 AM"
+      }
+    },
+    "LC100" : {
+      "-Lem6QIdA3E_TDhQaUHD" : {
+        "messageContent" : "Yo, chatbot here. Welcome to Fling's Landing",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-Lem7519rQPyU8YnueOO" : {
+        "messageContent" : "To talk with others, type your messages at the top of the page and click enter",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-Lem7JOngqtHCpHkTKOq" : {
+        "messageContent" : "Text too small? Check the Large Text button above to make the font size bigger",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-Lem7XJ_IsDnZxyTHDHs" : {
+        "messageContent" : "Theme too bright for your sensitive eyes? Click the Dark Theme button above to dim your display",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-Lem7k6FHWQH1VLAl-o9" : {
+        "messageContent" : "To clear your chat history, click the Clear Chat button at the top right of the screen",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-Lem7x25wnW6V_o6J2wN" : {
+        "messageContent" : "Check out the Channels button above to change conversations",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      }
+    },
+    "chatBot" : {
+      "-LeP945AuwLQfjH7BStA" : {
+        "messageContent" : "Welcome to Chatty-B",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-LeP9CucMfZYSZnxt3sW" : {
+        "messageContent" : "To talk with others, type your messages at the top of the page and click enter",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-LeP9Hzr_L51qDyER6Q9" : {
+        "messageContent" : "Text too small? Check the Large Text button above to make the font size bigger",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-LeP9OQxwJvhUw1_7N3C" : {
+        "messageContent" : "Theme too bright for your sensitive eyes? Click the Dark Theme button above to dim your display",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-LeP9VxIMdLTxmsQzBCn" : {
+        "messageContent" : "To clear your chat history, click the Clear Chat button at the top right of the screen",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-LePFQNTD32gZCrbi28_" : {
+        "messageContent" : "Check out the Channels button above to change conversations",
+        "name" : "chatbot",
+        "timeStamp" : ""
+      },
+      "-Lemwn6MORXKNNV3Y9G7" : {
+        "messageContent" : "asdf",
+        "name" : "Bob",
+        "timeStamp" : "May 13, 2019 3:47 PM"
+      }
+    }
+  },
+  "users" : {
+    "Bob" : {
+      "conversations" : {
+        "Heath" : {
+          "conversationId" : "BH100"
+        },
+        "Lakia" : {
+          "conversationId" : "BL100"
+        },
+        "chatBot" : {
+          "conversationId" : "BC100"
+        }
+      }
+    },
+    "Heath" : {
+      "conversations" : {
+        "Bob" : {
+          "conversationId" : "BH100"
+        },
+        "Lakia" : {
+          "conversationId" : "HL100"
+        },
+        "chatBot" : {
+          "conversationId" : "HC100"
+        }
+      }
+    },
+    "Lakia" : {
+      "conversations" : {
+        "Bob" : {
+          "conversationId" : "BL100"
+        },
+        "Heath" : {
+          "conversationId" : "HL100"
+        },
+        "chatBot" : {
+          "conversationId" : "LC100"
+        }
+      }
+    }
+  }
+}
